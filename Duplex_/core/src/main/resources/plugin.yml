@@ -1,0 +1,3 @@
+name: Duplex
+version: ${project.version}
+main: me.syn.duplex.Duplex
